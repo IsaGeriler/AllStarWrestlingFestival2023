@@ -1,0 +1,64 @@
+Kazuchika Okada,35,191,107,NJPW,Rainmaker,Michinoku Driver II,Heavy Rain (Death Valley Driver),DID (DEEP IN DEBT),Red Ink (Cross Legged Chinlock),Dropkick,Jumping Neckbreaker Drop,Diving Elbow Drop,German Suplex Hold,Tombstone Piledriver,The Money Clip (Cobra Clutch)
+Hirooki Goto,43,182,103,NJPW,Shouten,Shouten Kai,GTR,Shoryu Kekkai,Lariat,Backdrop Suplex,Kaiten,Go To Heaven,Ushigoroshi
+Naomichi Marufuji,43,176,90,NOAH,Tiger Flowsion,Shiranui,Pole Shift,Perfect Small Package Hold,Shiranui Kai
+Genichiro Tenryu,73,189,120,Tenryu Project,Northern Light Bomb,WAR Special,53 Year Old,Lariat,Powerbomb
+Akira Taue,61,192,120,NOAH,Ore ga Taue,Dynamic Kick,Dynamic Suplex,Dynamic Bomb,Chichibu Cement,Musasabi Bodypress,Nodowa Otoshi
+KENOH,38,174,95,NOAH,P.F.S (Diving Foot Stomp),Ankle Hold,Cross Armbreaker,Dragon Suplex,High Kick,Rahu
+Kento Miyahara,34,186,102,AJPW,Shutdown Suplex Hold,Blackout,Break Heart (High-Angle Pedigree),Northern Light Suplex Hold,Front High Kick
+Jun Akiyama,53,188,110,DDT,Exploider '98 (Wrist-Clutch Exploider),Sternness Dust Alpha (Wrist-Clutch Death Valley Driver),Sternness Dust Gamma (Wrist-Clutch Fisherman Buster),Front Face Lock Hold,King Crab Hold,Jumping Knee
+Kotaro Suzuki,44,170,86,Freelancer,Ryder Kick,Sky Dive Impact,Blue Destiny,Excalibur,Akushizu,Requiem,Tiger Driver,Rolling Elbow
+Tatsumi Fujinami,69,183,105,DRADITION,Dragon Suplex,Dragon Sleeper,Dragon Screw,Dragon Backbreaker,Dragon Rocket (Tope Suicida)
+SUWAMA,46,188,120,AJPW,Last Ride,Rolling Lariat,Ankle Lock,Backdrop Hold,Last German,Front Suplex
+Masaaki Mochizuki,53,175,85,DRAGON GATE,Saikyou High Kick,Shin-Saikyou High Kick,Twister I,Twister II,Reverse Twister,Sankakugeri,Sankakugeri To The Face,Ikkakugeri,Illusion,Wagamamana Hizakozou
+Yoshinari Ogawa,56,171,82,NOAH,Backdrop Hold,Jawbreaker,Enzuigiri
+Abdullah Kobayashi,46,175,165,BJW,Cobado Driver,Diving Bakachinga Elbow,Yamaarashi
+Zeus,41,181,105,Osaka Pro Wrestling,Jackhammer,Biceps Explosion,No. 19,Jihad,Zeus Bomb,Superfly Splash,Choke Slam
+Masa Kitamiya,34,172,103,NOAH,Spear,German Suplex,Prison Lock,Saito Suplex,Headbutt
+Jake Lee,34,192,110,NOAH,D4C (Dirty Deeds Done Dirt Cheap),High-angle Belly to Back Suplex,Giant Killing,Overkill,Perfect Stretch,Seated Armbar
+Hiroshi Hase,61,183,105,Freelancer,Northern Light Suplex,Uranage,Dragon Suplex,STS,Giant Swing,German Suplex,Sasorigatame (Scorpion Deathlock)
+Manabu Soya,38,180,112,NOAH,Wild Bomber,Death Valley Driver,Power Booster,Cross Kneelock,Brainbuster
+AMAKUSA,37,162,70,NOAH,German Suplex Hold,Huracanrana,Missile Kick,Firebird Splash,Diving Footstomp
+Masakatsu Funaki,54,181,84,NOAH,Hybrid Blaster,Backdrop Suplex,Triangle Choke,Heel Hook
+Shotaro Ashino,33,174,85,AJPW,Ankle Lock,German Suplex Hold,T-Bone Suplex
+Seiji Sakaguchi,81,196,125,NJPW,Jumping Knee Attack,Atomic Drop,Schmidt Backbreaker,Canadian Backbreaker,Argentine Backbreaker,Boston Crab,Neck-Hanging Tree
+Yukio Sakaguchi,49,177,79,DDT,Cobra Clutch,Kami no Migi Hiza,Rear Naked Choke,Rengoku,Right Knee of God,Snap Suplex,Northern Light Suplex,German Suplex
+Shinya Aoki,39,180,70,DDT,Rotation Armlock,Triangle Choke,Reverse Cross Armbreaker
+Black Menso-re,37,172,82,AJPW,Ari Kanpai,Oyaji Drink Bar
+Go Shiozaki,41,183,110,NOAH,Go Flasher,Modified Go Flasher,Gowan Lariat,Moonsault Press,Fisherman's Buster,Limit Break
+Yuji Nagata,54,183,108,NJPW,Backdrop Hold,Nagata Lock I,Nagata Lock II,Nagata Lock III,Nagata Lock IV,Wrist-Clutch Exploider,Thunder Death Driver
+Satoshi Kojima,52,183,108,NJPW,Koji Cutter,Koji MAX Hold,Western Lariat,Lariat,Rydeen Bomb,CCD
+Katsuhiko Nakajima,35,175,87,NOAH,Northern Light Bomb,Vertical Spike,Death Roll,High-Angle German Suplex Hold,R-15 (Spinning Heel Kick),Diamond Bomb
+Jumbo Tsuruta,49,194,127,AJPW,Backdrop Driver,Swinging Neckbreaker,Jumbo Lariat,Jumping Knee,Double Chop
+Kensuke Sasaki,56,180,115,Kensuke Office,Ippon-Seoi-Nage,Strangle Hold Alpha,Strangle Hold Beta,Strangle Hold Gamma,Northern Light Bomb,Lariat,Tornado Bomb,Volcano Eruption
+Masato Tanaka,50,181,90,ZERO-1,Complete Dust,Rolling Elbow,Tornado DDT,Sliding D,Diamond Dust,Super Fly (Frog Splash),Lariat
+Takashi Sugiura,52,178,89,NOAH,Olympic Slam,Ankle Lock,Spear,German Suplex,Dragon Suplex,Karelin Lift
+Antonio Inoki,79,190,102,NJPW,Cobra Twist,Octopus Hold,German Suplex Hold,Enzuigiri,Flying Knee Drop,Sleeper Hold
+Jun Kasai,48,173,88,FREEDOMS,Pearl Harbor Splash,Reverse Tiger Driver,Sudden Impact,Snap Suplex,German Suplex,Diving Headbutt
+Kaito Kiyomiya,26,180,98,NOAH,Chickenwing Face-lock,Figure Four Leg-lock,Tiger Suplex Hold,Overthrow,Tiger Driver,Cattle Mutilation,Transformed Shining Wizard,Shining Wizard
+Dick Togo,53,170,90,NJPW,Diving Senton,Pedigree,Crossface Hold,Silver Bullet,Lariat
+Minoru Tanaka,50,175,76,GLEAT,Minoru Special,Santa Monica Pier,HEAT Clutch,Fireball Splash
+Kazusada Higuchi,34,185,105,DDT,Brain Claw,Goten (Canadian Backbreaker Chokeslam),High-Angle Doctor Bomb,Chokebomb,Canadian Backbreaker,Oklahoma Stampede
+Akira Maeda,64,192,115,Freelancer,Captured Suplex,Cross Armbreaker,Sleeper Hold,Piledriver,Rolling Wheel Kick,Heel Hook,German Suplex
+Yoshiaki Fujiwara,73,185,108,Freelancer,Fujiwara Armbar,Headbutt,Swinging Neckbreaker,Gory Special
+Hiroshi Tanahashi,46,181,101,NJPW,Dragon Suplex,Dragon Sleeper,Sling Blade,High-Fly Flow,Texas Cloverleaf,Twist and Shout
+Katsuyori Shibata,43,183,95,NJPW,PK/Penalty Kick,Sleeper Hold,Backdrop,FK/Free Kick,GK/Goal Kick,Musha Gaeshi,Go 2 Sleep,Low Corner Dropkick
+Shingo Takagi,40,178,95,NJPW,MADE IN JAPAN,Last of the Dragon,Last Falconry,Original Falconry,Blood Fall,Pumping Bomber,STAY DREAM,Gallon Throw,MANRIKI,YO Throw
+Keiji Muto,60,188,110,NOAH,Shining Wizard,Moonsault Press,Muta Lock,Dragon Screw,Figure Four Leg-lock,Space Rolling Elbow,Flashing Elbow,Rip Breaker,Low Angle Dropkick
+Masahiro Chono,59,186,96,Freelancer,STF,Kenka Kick,Shining Kenka Kick,Backdrop,Flying Shoulder Block,Butterfly Lock,Manhattan Drop
+Tetsuya Naito,40,180,102,NJPW,Destino,Stardust Press,Pluma Blanca (Koji Clutch),Valentia,Gloria,Esperanza,Jumping Elbow Strike
+EVIL,36,178,106,NJPW,EVIL (STO),German Suplex,Running Elbow,Darkness Falls,Double-Arm Suplex,Banshee Muzzle (Arm Trap Facelock),One Man Magic Killer,Fisherman's Suplex
+Toshiaki Kawada,59,183,105,AJPW,Dangerous Backdrop,Ganso Bomb,Powerbomb,Stretch Plum,Brainbuster,Jumping High Kick,Running Face Kick,Stepkick
+Ryusuke Taguchi,43,180,91,NJPW,Dodon,Dropkick,Hip Attack,Enban Chuudoku,Shika Koroshi,Milano-saku Dodon's Throne
+SANADA,35,182,100,NJPW,Skull End,TKO,Paradise Lock,Rounding Body Press,Tiger Suplex,Springboard Dropkick
+Shinya Hashimoto,40,183,135,ZERO-1,Vertical Drop Brainbuster,DDT,Jumping DDT,Kick,Triangle Choke,Kesagiri Chop,Spinning Heelkick
+Giant Baba,61,209,135,AJPW,Running Neckbreaker Drop,Coconut Crush,16-bun Kick,Giant Buster
+Shinjiro Otani,50,180,97,ZERO-1,Cobra Hold,Dragon Suplex,Spiral Bomb,German Suplex,Missile Kick,Springboard Dropkick,Facewash
+Kaz Hayashi,49,173,83,GLEAT,Power Plant,Final Cut,Dragon Suplex,WA4,Crunch Loop
+Akitoshi Saito,57,177,123,NOAH,Death Brand,Sickle Of Death,Death Fall,Death Punish
+Kazuyuki Fujita,52,182,115,NOAH,Camel Clutch-Style Sleeper Hold,Heel Hook,Jackhammer,Knee Strike,Murder Backdrop,Penalty Kick,Powerbomb,Spinebuster
+Danshoku Dino,45,179,105,DDT,Danshoku Driver
+Yoshiki Inamura,30,182,120,NOAH,Warriors (Muso),Splash Mountain,Oklahoma Stampede,Frogsplash,GEKITOTZ,Shoulder Tackle
+KAZMA SAKAMOTO,40,185,105,GLEAT,HARAKIRI,KAZMAX,AX Bomber,KAZLOCK,FAT,Choke Slam,Schoolboy
+Kiyoshi Tamura,53,180,87,GLEAT,Jujigatamae
+Hi69,41,175,99,NOAH,Maharaja,Moonsault Press,Super Dance,Super Dance 2,Trance Rave,Stuka Splash,Michinoku Driver II
+Daisuke Harada,36,169,80,NOAH,Harada Pistol (Running Dropkick),Katayama German Suplex,Half Hatch Suplex,Spear,Overhead Suplex,Running Elbow
